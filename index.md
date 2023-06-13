@@ -83,3 +83,4 @@ One of the best parts about Github is that you can view how other people set up 
 To watch the BSE tutorial on how to create a portfolio, click here.
 
 # Starter Project
+My starter project is the useless box. The box works by flipping a switch, which switches a motor inside the box. There is an arm attached to the motor, which pushes a flap open at the top of the box, and then pushes the switch. The motor then retracts the arm back into the box.
