@@ -1,5 +1,5 @@
-# Project Name Here
-Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
+# Hexapod
+My main project is the hexapod, which is a robot with 6 legs. The hexapod is made up of various different acrylic parts, and is controlled with a control board in the middle of the main chassiss, and can be controlled by either plugging the robot into a computer or with a WLAN module that can be installed in the robot. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -33,14 +33,8 @@ For your second milestone, explain what you've worked on since your previous mil
 
 # First Milestone
 For my first milestone, I finished installing and assembling all the physical parts of the hexapod. My project is made up of different acrylic pieces, servos, and a main control pod. The acrylic pieces fit together in different ways to make up the legs and main body of the hexapod. For my milestone, I screwed together all the servos to their required acrylic pieces, and then connected the acrylic pieces together to create the required parts of the robot. I then uploaded firmware onto the main control board. I assembled all the acrylic parts onto the main body of the hexapod, and plugged all the servos into the control board. Some challenges I have faced so far is that some servos do not work, and the positioning of some legs are not correct. I plan to solve these by replacing some servos, and fix the orientation of the legs in the calibration step in the future. I plan to complete my project by continuing to follow the instructions and fixing any problems that come up. 
-- An explanation about the different components of your project and how they will all integrate together
-- Technical progress you've made so far
-- Challenges you're facing and solving in your future milestones
-- What your plan is to complete your project
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kaPv2Ap6h-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
