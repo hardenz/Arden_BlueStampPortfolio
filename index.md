@@ -21,12 +21,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Second Milestone
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal
-- What has been surprising about the project so far
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
-
+For my second milestone, I finished calibrating each of the 6 legs of my hexapod. Since my last milestone, I unplugged each servo and then plugged them in again to their respective correct spot on the control board. I then tied up each servo according to their leg with cable tidyers in order to organize them. I installed the bottom part of the main chassiss, and then plugged the control board into my computer to start the calibration process. I placed the hexapod on the calibration graph that came with the parts, and started calibrating each leg individually using the control app. One challenge I faced during this process was that the instructions were not very clear on what the height of each leg should be during the calibration process. When the robot is in calibration mode, the height of each leg is lower than in installation state, so in start, I calibrated each leg to be the same height as in the installation process. Howeverm, this was not the correct step, so I had to restart the calibration process with the correct height. 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
