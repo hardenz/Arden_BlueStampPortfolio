@@ -5,6 +5,7 @@ My main project is the hexapod, which is a robot with 6 legs. The hexapod is mad
 |:--:|:--:|:--:|:--:|
 | Arden Z | Fremont High School |  | Incoming Sophomore
 
+<!---
 **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
 ![Headstone Image](logo.svg)
@@ -18,13 +19,10 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+--> 
 
 # Second Milestone
 For my second milestone, I finished calibrating each of the 6 legs of my hexapod. Since my last milestone, I unplugged each servo and then plugged them in again to their respective correct spot on the control board. I then tied up each servo according to their leg with cable tidyers in order to organize them. I installed the bottom part of the main chassiss, and then plugged the control board into my computer to start the calibration process. I placed the hexapod on the calibration graph that came with the parts, and started calibrating each leg individually using the control app. One challenge I faced during this process was that the instructions were not very clear on what the height of each leg should be during the calibration process. When the robot is in calibration mode, the height of each leg is lower than in installation state, so in start, I calibrated each leg to be the same height as in the installation process. Howeverm, this was not the correct step, so I had to restart the calibration process with the correct height. 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # First Milestone
 For my first milestone, I finished installing and assembling all the physical parts of the hexapod. My project is made up of different acrylic pieces, servos, and a main control pod. The acrylic pieces fit together in different ways to make up the legs and main body of the hexapod. For my milestone, I screwed together all the servos to their required acrylic pieces, and then connected the acrylic pieces together to create the required parts of the robot. I then uploaded firmware onto the main control board. I assembled all the acrylic parts onto the main body of the hexapod, and plugged all the servos into the control board. Some challenges I have faced so far is that some servos do not work, and the positioning of some legs are not correct. I plan to solve these by replacing some servos, and fix the orientation of the legs in the calibration step in the future. I plan to complete my project by continuing to follow the instructions and fixing any problems that come up. 
