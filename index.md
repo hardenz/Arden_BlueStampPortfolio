@@ -11,13 +11,7 @@ My main project is the hexapod, which is a robot with 6 legs. The hexapod is mad
 ![Headstone Image](logo.svg)
   
 # Final Milestone
-For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
-
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+For my final milestone, I completed my hexapod, which can be controlled with a controller using a module on the hexapod and a module on the controller. The hexapod can also be controlled using a phone or a computer wirelessly, using a wifi module also installed on the hexapod. I installed the battery on top of the robot using velcro so it wouldn't drag behind the hexapod when moving. In order to control the hexapod using the controller, I uploaded the controller firmware onto the controller using arduino ide, and then recallibrated the hexapod legs. I then installed the controller module onto the controller and the hexapod. One issue I ran into during this step was that the port for the controller module on the hexapod was melted, and it was missing half of the holes. To solve this issue, I used a dremel tool to drill the missing holes where the port had melted back into the port in order to plug the module in. 
 
 --> 
 
