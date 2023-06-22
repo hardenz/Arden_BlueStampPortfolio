@@ -34,14 +34,7 @@ Here's where you'll put images of your schematics. [Tinkercad](https://www.tinke
 # Code
 <details>
   <summary>Click me</summary>
-  
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
 
-  ### /*
  * Sketch     Sketch for control Freenove Hexapod Robot
  * Brief      This sketch is used to control Freenove Hexapod Robot through Serial or Wi-Fi.
  *            To use Serial, the robot should connect to the device run this sketch.
