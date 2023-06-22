@@ -30,7 +30,7 @@ Here's where you'll put images of your schematics. [Tinkercad](https://www.tinke
 
 -->
 
-<!---
+
 # Code
 <details>
   <summary>Click me</summary>
@@ -867,7 +867,7 @@ public void processEvent(int id) {
   ```
 </details>
 ```
--->
+
 
 # Bill of Materials
 | **Part** | **Note** | **Price** | **Link** |
