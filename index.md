@@ -866,11 +866,9 @@ public void processEvent(int id) {
   }
   ```
 </details>
-```
 
 
 # Bill of Materials
-| **Part** | **Note** | **Price** | **Link** |
 
 | FREENOVE Hexapod Kit | Hexapod Components | $129.95 | [Link](https://www.amazon.com/Freenove-Raspberry-Crawling-Detailed-Tutorial/dp/B07FLVZ2DN?th=1/)
 
