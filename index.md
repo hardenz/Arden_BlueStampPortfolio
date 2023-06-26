@@ -33,7 +33,7 @@ For my first milestone, I finished installing and assembling all the physical pa
 
 
 # Schematics 
-![Hexapod Schematic](/Arden_BlueStampPortfolio/docs/assets/hexapod schematic.png)
+![Hexapod Schematic](/Arden_BlueStampPortfolio/docs/hexapod schematic.png)
 
 
 
