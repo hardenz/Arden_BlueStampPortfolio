@@ -35,7 +35,7 @@ For my first milestone, I finished installing and assembling all the physical pa
 # Schematics 
 ![Hexapod Schematic](/Arden_BlueStampPortfolio/docs/hexapod schematic.png)
 
-[Link]([url](https://github.com/Freenove/Freenove_Hexapod_Robot_Kit/blob/master/Hardware/FNM0019B_Freenove%20Crawling%20Robot%20Controller%20V3.1_Schematic.pdf/)
+[Link](https://github.com/Freenove/Freenove_Hexapod_Robot_Kit/blob/master/Hardware/FNM0019B_Freenove%20Crawling%20Robot%20Controller%20V3.1_Schematic.pdf/)
 
 # Code
 <details>
