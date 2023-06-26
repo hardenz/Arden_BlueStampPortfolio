@@ -1,5 +1,5 @@
 # Hexapod
-My main project is the hexapod, which is a robot with 6 legs. The hexapod is made up of various different acrylic parts, and is controlled with a control board in the middle of the main chassiss, and can be controlled by either plugging the robot into a computer or with a WLAN module that can be installed in the robot. 
+My main project is the hexapod, which is a robot with 6 legs. The hexapod is made up of various different acrylic parts, and is controlled with a control board in the middle of the main chassiss, and can be controlled by either plugging the robot into a computer or with a WLAN module that can be installed in the robot. The hexapod can perform various functions, including crawling, twisting, and tilting. It can also be controlled with an included controller, using a control module installed on both the controller and the control board of the hexapod. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
