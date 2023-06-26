@@ -37,9 +37,9 @@ For my first milestone, I finished installing and assembling all the physical pa
 
 [Link](https://github.com/Freenove/Freenove_Hexapod_Robot_Kit/blob/master/Hardware/FNM0019B_Freenove%20Crawling%20Robot%20Controller%20V3.1_Schematic.pdf/)
 
-# Click for Code
+# Code
 <details>
-  <summary>Code</summary>
+  <summary>Click for Code</summary>
 
  * Sketch     Sketch for control Freenove Hexapod Robot
  * Brief      This sketch is used to control Freenove Hexapod Robot through Serial or Wi-Fi.
