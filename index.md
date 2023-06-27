@@ -35,7 +35,7 @@ For my first milestone, I finished installing and assembling all the physical pa
 # Schematics 
 ![Hexapod Schematic](/Arden_BlueStampPortfolio/docs/hexapod schematic.png)
 
-[Link](https://github.com/Freenove/Freenove_Hexapod_Robot_Kit/blob/master/Hardware/FNM0019B_Freenove%20Crawling%20Robot%20Controller%20V3.1_Schematic.pdf/)
+[Link to Schematic](https://github.com/Freenove/Freenove_Hexapod_Robot_Kit/blob/master/Hardware/FNM0019B_Freenove%20Crawling%20Robot%20Controller%20V3.1_Schematic.pdf/)
 
 # Code
 <details>
@@ -869,11 +869,11 @@ public void processEvent(int id) {
 
 # Bill of Materials
 
-| FREENOVE Hexapod Kit | Hexapod Components | $129.95 | [Link](https://www.amazon.com/Freenove-Raspberry-Crawling-Detailed-Tutorial/dp/B07FLVZ2DN?th=1/)
+| FREENOVE Hexapod Kit | Hexapod Components | $129.95 | [Amazon Link](https://www.amazon.com/Freenove-Raspberry-Crawling-Detailed-Tutorial/dp/B07FLVZ2DN?th=1/)
 
 # Starter Project
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wo1IoIR5G-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 My starter project is the useless box. The box works by flipping a switch, which switches a motor inside the box. There is an arm attached to the motor, which pushes a flap open at the top of the box, and then pushes the switch. The motor then retracts the arm back into the box.
 
-[Link](http://www.spikenzielabs.com/Catalog/useless-machine/the-useless-machine-kit-no-soldering-required/)
+[Link to Project](http://www.spikenzielabs.com/Catalog/useless-machine/the-useless-machine-kit-no-soldering-required/)
