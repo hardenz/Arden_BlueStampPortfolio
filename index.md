@@ -38,7 +38,7 @@ For my first milestone, I finished installing and assembling all the physical pa
 [Link to Schematic](https://github.com/Freenove/Freenove_Hexapod_Robot_Kit/blob/master/Hardware/FNM0019B_Freenove%20Crawling%20Robot%20Controller%20V3.1_Schematic.pdf/)
 
 # Code
-[[Link to Code](https://github.com/Freenove/Freenove_Hexapod_Robot_Kit/tree/master/ProcessingApp/)
+[Link to Code](https://github.com/Freenove/Freenove_Hexapod_Robot_Kit/tree/master/ProcessingApp/)
 
 # Bill of Materials
 
