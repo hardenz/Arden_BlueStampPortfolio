@@ -14,8 +14,11 @@ My main project is the hexapod, which is a robot with 6 legs. The hexapod is mad
 ![Headstone Image](logo.svg)
 
 -->
-  
+
+<!---
 # Final Milestone
+
+--> 
 
 # Third Milestone
 
