@@ -60,9 +60,7 @@ This is the code to control the hexapod
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-
 | FREENOVE Hexapod Kit | Hexapod Components | $129.95 | [Amazon Link](https://www.amazon.com/Freenove-Raspberry-Crawling-Detailed-Tutorial/dp/B07FLVZ2DN?th=1/) |
-
 | LK Cokoino Robot Arm Kit | Robot Arm Components | $49.99 | [Amazon Link](https://www.amazon.com/LK-COKOINO-Compliment-Engineering-Technology/dp/B081FG1JQ1/) |
 
 # Starter Project
