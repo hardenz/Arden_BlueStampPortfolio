@@ -16,7 +16,7 @@ My main project is the hexapod, which is a robot with 6 legs. The hexapod is mad
 -->
 
 
-# Final Milestone (Modification) 
+# Final Milestone Modification
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x15ACGFqruA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
