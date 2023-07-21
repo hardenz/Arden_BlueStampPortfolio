@@ -9,9 +9,7 @@ My main project is the hexapod, which is a robot with 6 legs. The hexapod is mad
 | Arden Z | Fremont High School | Engineering | Incoming Sophomore
 
 <!---
-**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
-
-![Headstone Image](logo.svg)
+![Picture](/Arden_BlueStampPortfolio/docs/hexapod schematic.png)
 
 -->
 
