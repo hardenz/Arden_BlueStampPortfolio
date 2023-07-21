@@ -11,6 +11,8 @@ My main project is the hexapod, which is a robot with 6 legs. The hexapod is mad
 ![Picture](/Arden_BlueStampPortfolio/docs/IMG_9309.jpeg =50x50)
 
 
+<img src="/Arden_BlueStampPortfolio/docs/IMG_9309.jpeg" width=50% height=50%>
+
 
 
 # Final Milestone Modification
