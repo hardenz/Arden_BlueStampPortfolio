@@ -9,7 +9,7 @@ My main project is the hexapod, which is a robot with 6 legs. The hexapod is mad
 | Arden Z | Fremont High School | Engineering | Incoming Sophomore
 
 
-![Picture](/Arden_BlueStampPortfolio/docs/IMG_9309 (1).jpeg)
+![Picture](/Arden_BlueStampPortfolio/docs/IMG_9309.png)
 
 
 # Final Milestone Modification
